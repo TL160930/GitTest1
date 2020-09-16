@@ -326,6 +326,8 @@ export default {
       return "step" + parseInt(index +13);
     },
     // 获取当前时间
+    // add fun3 获取当前时间
+    add fun3
     currentTime() {
       setInterval(this.getTime, 500);
     },
